@@ -17,15 +17,17 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 ## 📁 Folder Structure
 
 ```
-/your-project-folder
 ├── index.html
+├── style.css
+├── cooper.js
 ├── image.png (hero section image)
-├── python.png
-├── c.png
-├── csharp.png
-├── react.png
-├── java.png
-├── git.png
+├── images/
+│   ├── python.png
+│   ├── c.png
+│   ├── csharp.png
+│   ├── react.png
+│   ├── java.png
+│   └── git.png
 └── README.md
 ```
 
