@@ -9,7 +9,6 @@ body {
   background-color: #ffffff;
 }
 
-/* Navbar */
 nav {
   padding: 20px 40px;
   display: flex;
@@ -39,7 +38,6 @@ nav {
   color: #EFF6FC;
 }
 
-/* Hero Section */
 .hero {
   position: relative;
   width: 100%;
