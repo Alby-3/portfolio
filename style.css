@@ -100,6 +100,7 @@ nav {
   font-size: 30px;
   font-weight: normal;
 }
+
 .about-section {
   background-color: #eaf0f4;
   padding: 100px 0;
@@ -161,7 +162,7 @@ nav {
       height: 50px;
     }
 
-.contact-section {
+    .contact-section {
       background-color: #eaf0f4;
       padding: 100px 0;
       display: flex;
@@ -209,4 +210,12 @@ nav {
       cursor: pointer;
       align-self: center;
       width: 120px;
+    }
+
+        footer {
+      background-color: #7aa89f;
+      color: white;
+      text-align: center;
+      padding: 20px 0;
+      font-size: 14px;
     }
