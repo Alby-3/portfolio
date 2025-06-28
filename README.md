@@ -31,15 +31,6 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 └── README.md
 ```
 
-## 🧭 Navigation Links
-
-| Link       | Scrolls To    |
-| ---------- | ------------- |
-| Home       | Hero section  |
-| About      | About section |
-| Tech Stack | Tech section  |
-| Contact    | Contact form  |
-
 ## 🧪 How to Run
 
 1. Clone or download this repository.
