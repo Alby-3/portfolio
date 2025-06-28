@@ -160,3 +160,53 @@ nav {
       width: 50px;
       height: 50px;
     }
+
+.contact-section {
+      background-color: #eaf0f4;
+      padding: 100px 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .contact-box {
+      background-color: #7aa89f;
+      padding: 60px 80px;
+      max-width: 600px;
+      width: 100%;
+    }
+
+    .contact-box h2 {
+      font-size: 40px;
+      margin-bottom: 30px;
+      font-weight: bold;
+      text-align: center;
+    }
+
+    form {
+      display: flex;
+      flex-direction: column;
+    }
+
+    label {
+      font-weight: bold;
+      margin: 10px 0 5px;
+    }
+
+    input, textarea {
+      padding: 10px;
+      margin-bottom: 15px;
+      border: none;
+      font-size: 16px;
+    }
+
+    button {
+      background-color: #bfd6d3;
+      padding: 10px;
+      border: none;
+      font-size: 16px;
+      font-weight: bold;
+      cursor: pointer;
+      align-self: center;
+      width: 120px;
+    }
