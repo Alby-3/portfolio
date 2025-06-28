@@ -100,3 +100,31 @@ nav {
   font-size: 30px;
   font-weight: normal;
 }
+.about-section {
+  background-color: #eaf0f4;
+  padding: 100px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-box {
+  background-color: #7aa89f;
+  padding: 60px 80px;
+  max-width: 800px;
+  color: #000;
+}
+
+.about-box h2 {
+  font-size: 40px;
+  margin-bottom: 30px;
+  font-weight: bold;
+  font-family: 'Georgia', serif;
+}
+
+.about-box p {
+  font-size: 18px;
+  line-height: 1.8;
+  font-family: 'Georgia', serif;
+}
+
